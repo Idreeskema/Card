@@ -1,0 +1,26 @@
+
+.nav{
+    background-color: #e3f2fd;
+    padding: 20px;
+}
+
+.image-1{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow:hidden;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    border-radius:50%;
+    width:90px;
+    height:90px;
+    display: block;
+    margin: 0 auto;
+}
+
+    .card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+        margin-top: 10px auto;
+}
